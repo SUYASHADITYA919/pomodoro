@@ -80,8 +80,7 @@ function App() {
       </div>
 
       <main className="glass-container">
-        Pomodoro Timer ⏰
-        <br>
+        <h1>Pomodoro Timer ⏰ </h1>
         <div className="mode-switcher">
           {modes.map((mode, index) => (
             <button
