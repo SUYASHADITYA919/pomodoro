@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import './App.css';
 
 const modes = [
-  { label: 'Focus', minutes: 25 },
+  { label: 'Focus', minutes: 30 },
   { label: 'Short Break', minutes: 5 },
   { label: 'Long Break', minutes: 15 }
 ];
