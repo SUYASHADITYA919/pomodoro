@@ -1,18 +1,26 @@
-# pomodoro
+# ⏰Pomodoro
 Deployed LINK- 
+<br>
 This is a Pomodoro Timer App.
 
 🚀 Features:
+<br>
 Dynamic UI: A clean, mobile-first design powered by Tailwind CSS.
 <br>
-Score Calculation: Automated scoring logic to track performance.
+Score Calculation: Automate timer logic to track focus.
 <br>
-Navigation System: Intuitive flow between questions and the final results page.
+Navigation System: useState for dom manipulations as vanilajs.
 
 ⌨️ Tech Stack:
-REACT: for smooth and interactive UI.
+<br>
+REACT: for hooks as DOM manipulations.
+<br>
+TAILWIND CSS: for clean and interactive UI.
 
 ⚒️ Tools and Workflow:
+<br>
 Version Control: Git & GitHub
 <br>
 IDE: vscode
+
+If you like my repo do give star it and suggest changes and criticism.
