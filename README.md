@@ -1,5 +1,5 @@
-# ⏰Pomodoro
-Deployed LINK- 
+# ⏰Pomodoro Timer App
+Deployed LINK- https://pomodoro-timer-app-gold-iota.vercel.app/
 <br>
 This is a Pomodoro Timer App.
 
