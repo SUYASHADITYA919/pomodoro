@@ -81,6 +81,7 @@ function App() {
 
       <main className="glass-container">
         Pomodoro Timer ⏰
+        <br>
         <div className="mode-switcher">
           {modes.map((mode, index) => (
             <button
