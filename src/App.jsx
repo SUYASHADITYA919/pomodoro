@@ -68,7 +68,6 @@ function App() {
 
   return (
     <div className="app-root">
-      Pomodoro Timer ⏰
       <div className="theme-toggle-container">
         <label className="switch">
           <input
@@ -81,6 +80,7 @@ function App() {
       </div>
 
       <main className="glass-container">
+        Pomodoro Timer ⏰
         <div className="mode-switcher">
           {modes.map((mode, index) => (
             <button
