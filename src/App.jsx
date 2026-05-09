@@ -68,6 +68,7 @@ function App() {
 
   return (
     <div className="app-root">
+      Pomodoro Timer ⏰
       <div className="theme-toggle-container">
         <label className="switch">
           <input
